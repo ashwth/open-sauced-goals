@@ -1,32 +1,32 @@
 [
   {
     "full_name": "damienbod/AspNetCoreOpeniddict",
-    "stargazers_count": 86,
+    "stargazers_count": 88,
     "open_issues_count": 2,
-    "forks_count": 16
+    "forks_count": 18
   },
   {
     "full_name": "openiddict/openiddict-samples",
-    "stargazers_count": 391,
+    "stargazers_count": 393,
     "open_issues_count": 5,
     "forks_count": 193
   },
   {
     "full_name": "godotengine/godot",
-    "stargazers_count": 48353,
-    "open_issues_count": 7586,
-    "forks_count": 8667
+    "stargazers_count": 48526,
+    "open_issues_count": 7564,
+    "forks_count": 8684
   },
   {
     "full_name": "veler/DevToys",
-    "stargazers_count": 9603,
-    "open_issues_count": 143,
-    "forks_count": 485
+    "stargazers_count": 9628,
+    "open_issues_count": 144,
+    "forks_count": 487
   },
   {
     "full_name": "Solido/awesome-flutter",
-    "stargazers_count": 40219,
-    "open_issues_count": 35,
-    "forks_count": 5882
+    "stargazers_count": 40264,
+    "open_issues_count": 37,
+    "forks_count": 5881
   }
 ]
